@@ -1,0 +1,15 @@
+.section::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.article {
+    width: 60%;
+    float: left;
+}
+
+.aside {
+    width: 40%;
+    float: right;
+}
